@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins';
+}
+body{
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(bk.jpg);
+    min-height: 100vh;
+   background-size: cover;
+    background-position: center;
+    
+}
+.mnd ul li{
+    
+    font-size: 17px;
+color: white;
+}
+.mnd img{
+    border-radius: 25px;
+   border-style: outset;
+   box-shadow: inset;
+    float: right;
+}
+h1{
+    text-align: center;
+    color: aqua;
+    
+}
+h1:hover{
+    background-color: transparent;
+}
+.mnd ul{
+    margin-top: 20px;
+}

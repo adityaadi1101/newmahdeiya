@@ -1,0 +1,11 @@
+.image{
+    box-sizing: border-box;
+    border-radius: 25px;
+    border: 5px solid rgb(181, 238, 11);
+    border-radius: 20px;
+    transition: transform 0.3s ease-in-out;
+}
+.image:hover{
+    background-color: black;
+    transform: scale(1.3);
+}

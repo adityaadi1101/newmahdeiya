@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(210, 243, 80);
+}
+
+.loca{
+
+        width: 100%;
+        margin: auto;
+        text-align: center;
+        font-size: 30px;
+       
+}
+.loca h1{
+    font-size: 25px;
+    color: red;
+    background-color: green;
+    display: inline-block;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.loca h1:hover{
+    background-color: yellow;
+}
+.loca h3 button{
+    color: blue;
+    background-color: aqua;
+}
